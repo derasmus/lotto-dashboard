@@ -1,0 +1,905 @@
+{
+  "game": "SA Lotto",
+  "format": "6/52 + Bonus Ball",
+  "drawDays": [
+    "Wednesday",
+    "Saturday"
+  ],
+  "drawTime": "21:00",
+  "totalDraws": 2569,
+  "dateRange": {
+    "earliest": "2000-03-11",
+    "latest": "2026-02-28"
+  },
+  "lastUpdated": "2026-03-03T09:34:10.628Z",
+  "frequency": {
+    "top15": [
+      {
+        "num": 16,
+        "count": 342
+      },
+      {
+        "num": 8,
+        "count": 341
+      },
+      {
+        "num": 48,
+        "count": 339
+      },
+      {
+        "num": 23,
+        "count": 334
+      },
+      {
+        "num": 14,
+        "count": 333
+      },
+      {
+        "num": 30,
+        "count": 330
+      },
+      {
+        "num": 46,
+        "count": 328
+      },
+      {
+        "num": 29,
+        "count": 327
+      },
+      {
+        "num": 2,
+        "count": 323
+      },
+      {
+        "num": 18,
+        "count": 322
+      },
+      {
+        "num": 17,
+        "count": 321
+      },
+      {
+        "num": 11,
+        "count": 319
+      },
+      {
+        "num": 6,
+        "count": 317
+      },
+      {
+        "num": 24,
+        "count": 317
+      },
+      {
+        "num": 33,
+        "count": 317
+      }
+    ],
+    "bottom15": [
+      {
+        "num": 58,
+        "count": null
+      },
+      {
+        "num": 57,
+        "count": null
+      },
+      {
+        "num": 56,
+        "count": null
+      },
+      {
+        "num": 55,
+        "count": null
+      },
+      {
+        "num": 54,
+        "count": null
+      },
+      {
+        "num": 53,
+        "count": null
+      },
+      {
+        "num": 52,
+        "count": 93
+      },
+      {
+        "num": 51,
+        "count": 101
+      },
+      {
+        "num": 50,
+        "count": 111
+      },
+      {
+        "num": 37,
+        "count": 269
+      },
+      {
+        "num": 21,
+        "count": 277
+      },
+      {
+        "num": 36,
+        "count": 278
+      },
+      {
+        "num": 10,
+        "count": 283
+      },
+      {
+        "num": 31,
+        "count": 285
+      },
+      {
+        "num": 19,
+        "count": 286
+      }
+    ],
+    "all": [
+      {
+        "num": 16,
+        "count": 342
+      },
+      {
+        "num": 8,
+        "count": 341
+      },
+      {
+        "num": 48,
+        "count": 339
+      },
+      {
+        "num": 23,
+        "count": 334
+      },
+      {
+        "num": 14,
+        "count": 333
+      },
+      {
+        "num": 30,
+        "count": 330
+      },
+      {
+        "num": 46,
+        "count": 328
+      },
+      {
+        "num": 29,
+        "count": 327
+      },
+      {
+        "num": 2,
+        "count": 323
+      },
+      {
+        "num": 18,
+        "count": 322
+      },
+      {
+        "num": 17,
+        "count": 321
+      },
+      {
+        "num": 11,
+        "count": 319
+      },
+      {
+        "num": 6,
+        "count": 317
+      },
+      {
+        "num": 24,
+        "count": 317
+      },
+      {
+        "num": 33,
+        "count": 317
+      },
+      {
+        "num": 41,
+        "count": 317
+      },
+      {
+        "num": 7,
+        "count": 316
+      },
+      {
+        "num": 1,
+        "count": 315
+      },
+      {
+        "num": 39,
+        "count": 315
+      },
+      {
+        "num": 13,
+        "count": 314
+      },
+      {
+        "num": 43,
+        "count": 314
+      },
+      {
+        "num": 44,
+        "count": 313
+      },
+      {
+        "num": 45,
+        "count": 312
+      },
+      {
+        "num": 49,
+        "count": 312
+      },
+      {
+        "num": 27,
+        "count": 311
+      },
+      {
+        "num": 3,
+        "count": 310
+      },
+      {
+        "num": 20,
+        "count": 306
+      },
+      {
+        "num": 35,
+        "count": 306
+      },
+      {
+        "num": 9,
+        "count": 304
+      },
+      {
+        "num": 22,
+        "count": 303
+      },
+      {
+        "num": 34,
+        "count": 303
+      },
+      {
+        "num": 38,
+        "count": 300
+      },
+      {
+        "num": 26,
+        "count": 297
+      },
+      {
+        "num": 47,
+        "count": 296
+      },
+      {
+        "num": 40,
+        "count": 295
+      },
+      {
+        "num": 28,
+        "count": 294
+      },
+      {
+        "num": 12,
+        "count": 293
+      },
+      {
+        "num": 32,
+        "count": 292
+      },
+      {
+        "num": 42,
+        "count": 292
+      },
+      {
+        "num": 4,
+        "count": 288
+      },
+      {
+        "num": 5,
+        "count": 288
+      },
+      {
+        "num": 25,
+        "count": 288
+      },
+      {
+        "num": 15,
+        "count": 287
+      },
+      {
+        "num": 19,
+        "count": 286
+      },
+      {
+        "num": 31,
+        "count": 285
+      },
+      {
+        "num": 10,
+        "count": 283
+      },
+      {
+        "num": 36,
+        "count": 278
+      },
+      {
+        "num": 21,
+        "count": 277
+      },
+      {
+        "num": 37,
+        "count": 269
+      },
+      {
+        "num": 50,
+        "count": 111
+      },
+      {
+        "num": 51,
+        "count": 101
+      },
+      {
+        "num": 52,
+        "count": 93
+      },
+      {
+        "num": 53,
+        "count": null
+      },
+      {
+        "num": 54,
+        "count": null
+      },
+      {
+        "num": 55,
+        "count": null
+      },
+      {
+        "num": 56,
+        "count": null
+      },
+      {
+        "num": 57,
+        "count": null
+      },
+      {
+        "num": 58,
+        "count": null
+      }
+    ]
+  },
+  "bonusBallFrequency": {
+    "top10": [
+      {
+        "num": 22,
+        "count": 68
+      },
+      {
+        "num": 16,
+        "count": 65
+      },
+      {
+        "num": 10,
+        "count": 64
+      },
+      {
+        "num": 19,
+        "count": 64
+      },
+      {
+        "num": 48,
+        "count": 64
+      },
+      {
+        "num": 5,
+        "count": 60
+      },
+      {
+        "num": 26,
+        "count": 60
+      },
+      {
+        "num": 39,
+        "count": 60
+      },
+      {
+        "num": 45,
+        "count": 59
+      },
+      {
+        "num": 2,
+        "count": 57
+      }
+    ],
+    "all": [
+      {
+        "num": 22,
+        "count": 68
+      },
+      {
+        "num": 16,
+        "count": 65
+      },
+      {
+        "num": 10,
+        "count": 64
+      },
+      {
+        "num": 19,
+        "count": 64
+      },
+      {
+        "num": 48,
+        "count": 64
+      },
+      {
+        "num": 5,
+        "count": 60
+      },
+      {
+        "num": 26,
+        "count": 60
+      },
+      {
+        "num": 39,
+        "count": 60
+      },
+      {
+        "num": 45,
+        "count": 59
+      },
+      {
+        "num": 2,
+        "count": 57
+      },
+      {
+        "num": 32,
+        "count": 57
+      },
+      {
+        "num": 20,
+        "count": 55
+      },
+      {
+        "num": 37,
+        "count": 55
+      },
+      {
+        "num": 44,
+        "count": 55
+      },
+      {
+        "num": 17,
+        "count": 54
+      },
+      {
+        "num": 31,
+        "count": 54
+      },
+      {
+        "num": 8,
+        "count": 53
+      },
+      {
+        "num": 14,
+        "count": 53
+      },
+      {
+        "num": 23,
+        "count": 53
+      },
+      {
+        "num": 47,
+        "count": 53
+      },
+      {
+        "num": 27,
+        "count": 52
+      },
+      {
+        "num": 41,
+        "count": 52
+      },
+      {
+        "num": 6,
+        "count": 51
+      },
+      {
+        "num": 24,
+        "count": 51
+      },
+      {
+        "num": 12,
+        "count": 50
+      },
+      {
+        "num": 25,
+        "count": 50
+      },
+      {
+        "num": 29,
+        "count": 50
+      },
+      {
+        "num": 30,
+        "count": 50
+      },
+      {
+        "num": 43,
+        "count": 50
+      },
+      {
+        "num": 4,
+        "count": 49
+      },
+      {
+        "num": 13,
+        "count": 49
+      },
+      {
+        "num": 15,
+        "count": 49
+      },
+      {
+        "num": 3,
+        "count": 48
+      },
+      {
+        "num": 7,
+        "count": 48
+      },
+      {
+        "num": 21,
+        "count": 48
+      },
+      {
+        "num": 35,
+        "count": 47
+      },
+      {
+        "num": 36,
+        "count": 47
+      },
+      {
+        "num": 40,
+        "count": 47
+      },
+      {
+        "num": 49,
+        "count": 47
+      },
+      {
+        "num": 1,
+        "count": 46
+      },
+      {
+        "num": 38,
+        "count": 46
+      },
+      {
+        "num": 46,
+        "count": 46
+      },
+      {
+        "num": 18,
+        "count": 44
+      },
+      {
+        "num": 9,
+        "count": 42
+      },
+      {
+        "num": 28,
+        "count": 41
+      },
+      {
+        "num": 11,
+        "count": 40
+      },
+      {
+        "num": 33,
+        "count": 40
+      },
+      {
+        "num": 34,
+        "count": 40
+      },
+      {
+        "num": 42,
+        "count": 38
+      },
+      {
+        "num": 52,
+        "count": 16
+      },
+      {
+        "num": 50,
+        "count": 15
+      },
+      {
+        "num": 51,
+        "count": 12
+      },
+      {
+        "num": 53,
+        "count": null
+      },
+      {
+        "num": 55,
+        "count": null
+      },
+      {
+        "num": 57,
+        "count": null
+      }
+    ]
+  },
+  "gapAnalysis": {
+    "mostOverdue": [
+      {
+        "num": 41,
+        "gap": 38
+      },
+      {
+        "num": 27,
+        "gap": 36
+      },
+      {
+        "num": 52,
+        "gap": 32
+      },
+      {
+        "num": 31,
+        "gap": 30
+      },
+      {
+        "num": 25,
+        "gap": 27
+      },
+      {
+        "num": 42,
+        "gap": 25
+      },
+      {
+        "num": 30,
+        "gap": 22
+      },
+      {
+        "num": 47,
+        "gap": 20
+      },
+      {
+        "num": 5,
+        "gap": 17
+      },
+      {
+        "num": 4,
+        "gap": 15
+      },
+      {
+        "num": 44,
+        "gap": 15
+      },
+      {
+        "num": 34,
+        "gap": 13
+      },
+      {
+        "num": 57,
+        "gap": 13
+      },
+      {
+        "num": 54,
+        "gap": 11
+      },
+      {
+        "num": 23,
+        "gap": 10
+      }
+    ],
+    "totalNumbers": 52
+  },
+  "consecutiveRepeats": {
+    "rate": 55.65,
+    "totalDraws": 2569,
+    "drawsWithRepeats": 1429,
+    "topRepeaters": [
+      {
+        "num": 23,
+        "count": 58
+      },
+      {
+        "num": 16,
+        "count": 57
+      },
+      {
+        "num": 8,
+        "count": 52
+      },
+      {
+        "num": 14,
+        "count": 52
+      },
+      {
+        "num": 48,
+        "count": 47
+      },
+      {
+        "num": 7,
+        "count": 46
+      },
+      {
+        "num": 29,
+        "count": 45
+      },
+      {
+        "num": 18,
+        "count": 44
+      },
+      {
+        "num": 47,
+        "count": 44
+      },
+      {
+        "num": 27,
+        "count": 41
+      }
+    ]
+  },
+  "latestDraw": {
+    "date": "2026-02-28",
+    "drawNumber": 2624,
+    "numbers": [
+      2,
+      7,
+      15,
+      33,
+      38,
+      48
+    ],
+    "bonusBall": 5,
+    "machine": "RNG3NA",
+    "hotNumbers": [
+      2,
+      33,
+      48
+    ],
+    "coldNumbers": [],
+    "neutralNumbers": [
+      7,
+      15,
+      38
+    ]
+  },
+  "nextDraw": {
+    "date": "2026-03-04",
+    "dayOfWeek": "Wednesday",
+    "time": "21:00 SAST"
+  },
+  "tickets": [],
+  "ticketsVsLatest": [],
+  "lastDraws": [
+    {
+      "date": "2026-02-28",
+      "drawNumber": 2624,
+      "numbers": [
+        2,
+        7,
+        15,
+        33,
+        38,
+        48
+      ],
+      "bonusBall": 5,
+      "hotCount": 3,
+      "coldCount": 0
+    },
+    {
+      "date": "2026-02-25",
+      "drawNumber": 2623,
+      "numbers": [
+        7,
+        11,
+        12,
+        32,
+        38,
+        55
+      ],
+      "bonusBall": 20,
+      "hotCount": 1,
+      "coldCount": 1
+    },
+    {
+      "date": "2026-02-21",
+      "drawNumber": 2622,
+      "numbers": [
+        2,
+        8,
+        39,
+        43,
+        45,
+        55
+      ],
+      "bonusBall": 6,
+      "hotCount": 2,
+      "coldCount": 1
+    },
+    {
+      "date": "2026-02-18",
+      "drawNumber": 2621,
+      "numbers": [
+        6,
+        13,
+        22,
+        36,
+        50,
+        56
+      ],
+      "bonusBall": 28,
+      "hotCount": 1,
+      "coldCount": 3
+    },
+    {
+      "date": "2026-02-14",
+      "drawNumber": 2620,
+      "numbers": [
+        6,
+        10,
+        18,
+        32,
+        37,
+        46
+      ],
+      "bonusBall": 53,
+      "hotCount": 3,
+      "coldCount": 2
+    },
+    {
+      "date": "2026-02-11",
+      "drawNumber": 2619,
+      "numbers": [
+        14,
+        16,
+        22,
+        24,
+        29,
+        35
+      ],
+      "bonusBall": 3,
+      "hotCount": 4,
+      "coldCount": 0
+    }
+  ],
+  "recommendations": {
+    "hot": [
+      16,
+      8,
+      48
+    ],
+    "cold": [
+      52,
+      51,
+      50
+    ],
+    "overdue": [
+      41,
+      27,
+      52,
+      31,
+      25
+    ],
+    "mix": [
+      16,
+      8,
+      52,
+      51,
+      41,
+      27
+    ],
+    "bonusBall": 22
+  }
+}
