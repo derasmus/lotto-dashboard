@@ -531,12 +531,115 @@
     }
     
     @media (max-width: 768px) {
-      h1 { font-size: 1.8rem; }
-      .countdown-timer { font-size: 1.4rem; }
-      .lotto-ball { width: 45px; height: 45px; font-size: 0.9rem; }
-      .grid { grid-template-columns: 1fr; }
-      .draw-row { grid-template-columns: 60px 1fr; }
+      body { padding: 10px; }
+      h1 { font-size: 1.5rem; }
+      .subtitle { font-size: 0.9rem; }
+      header { padding: 15px; }
+      
+      .countdown { padding: 15px; margin-bottom: 20px; }
+      .countdown-timer { font-size: 1.8rem; }
+      .countdown-label { font-size: 0.8rem; }
+      
+      .last-draw { padding: 15px; }
+      .draw-header { flex-direction: column; align-items: flex-start; gap: 5px; }
+      .draw-title { font-size: 1.1rem; }
+      
+      .lotto-ball { 
+        width: 45px; 
+        height: 45px; 
+        font-size: 1rem; 
+      }
+      .numbers-display { gap: 8px; flex-wrap: wrap; }
+      
+      .grid { 
+        grid-template-columns: 1fr; 
+        gap: 15px; 
+        margin-bottom: 20px;
+      }
+      .card { padding: 15px; }
+      
+      .draw-row { 
+        grid-template-columns: 60px 1fr; 
+        gap: 10px;
+        padding: 8px;
+      }
+      .draw-numbers { flex-wrap: wrap; }
+      .draw-number {
+        width: 26px;
+        height: 26px;
+        font-size: 0.7rem;
+      }
       .draw-meta { display: none; }
+      
+      .ticket-match-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+      }
+      .ticket-numbers { flex-wrap: wrap; }
+      .ticket-number {
+        width: 32px;
+        height: 32px;
+        font-size: 0.9rem;
+      }
+      
+      .number-item { padding: 8px; }
+      .number-ball {
+        width: 32px;
+        height: 32px;
+        font-size: 0.9rem;
+      }
+      .number-rank { font-size: 0.7rem; }
+      .number-count { font-size: 0.75rem; }
+      
+      .rec-grid {
+        grid-template-columns: 1fr;
+      }
+      .rec-item { padding: 12px; }
+      .rec-number {
+        width: 36px;
+        height: 36px;
+        font-size: 1rem;
+      }
+      
+      .draw-stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      h1 { font-size: 1.3rem; }
+      .countdown-timer { font-size: 1.5rem; }
+      .lotto-ball { 
+        width: 40px; 
+        height: 40px; 
+        font-size: 0.9rem; 
+      }
+      .numbers-display { gap: 6px; }
+      .draw-row { grid-template-columns: 1fr; gap: 8px; }
+      .draw-date { font-size: 0.75rem; }
+      .ticket-number {
+        width: 28px;
+        height: 28px;
+        font-size: 0.8rem;
+      }
+      .ticket-numbers { gap: 4px; }
+      .number-ball {
+        width: 28px;
+        height: 28px;
+        font-size: 0.8rem;
+      }
+      .analysis-ball {
+        width: 28px;
+        height: 28px;
+        font-size: 0.75rem;
+      }
+      .analysis-category {
+        padding: 8px;
+        min-width: 100px;
+      }
+      .grid { grid-template-columns: minmax(0, 1fr); }
     }
   </style>
 </head>
