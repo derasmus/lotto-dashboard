@@ -6,12 +6,12 @@
     "Saturday"
   ],
   "drawTime": "21:00",
-  "totalDraws": 2572,
+  "totalDraws": 2573,
   "dateRange": {
     "earliest": "2000-03-11",
-    "latest": "2026-03-11"
+    "latest": "2026-03-14"
   },
-  "lastUpdated": "2026-03-12T06:23:55.805Z",
+  "lastUpdated": "2026-03-17T09:32:37.095Z",
   "frequency": {
     "top15": [
       {
@@ -36,7 +36,7 @@
       },
       {
         "num": 30,
-        "count": 330
+        "count": 331
       },
       {
         "num": 46,
@@ -160,7 +160,7 @@
       },
       {
         "num": 30,
-        "count": 330
+        "count": 331
       },
       {
         "num": 46,
@@ -251,11 +251,11 @@
         "count": 306
       },
       {
-        "num": 9,
-        "count": 304
+        "num": 22,
+        "count": 305
       },
       {
-        "num": 22,
+        "num": 9,
         "count": 304
       },
       {
@@ -279,20 +279,20 @@
         "count": 295
       },
       {
+        "num": 12,
+        "count": 294
+      },
+      {
         "num": 28,
         "count": 294
       },
       {
-        "num": 12,
+        "num": 32,
         "count": 293
       },
       {
-        "num": 32,
-        "count": 292
-      },
-      {
         "num": 42,
-        "count": 292
+        "count": 293
       },
       {
         "num": 4,
@@ -642,71 +642,71 @@
     "mostOverdue": [
       {
         "num": 41,
-        "gap": 41
+        "gap": 42
       },
       {
         "num": 27,
-        "gap": 39
+        "gap": 40
       },
       {
         "num": 52,
-        "gap": 35
+        "gap": 36
       },
       {
         "num": 31,
-        "gap": 33
+        "gap": 34
       },
       {
         "num": 25,
-        "gap": 30
-      },
-      {
-        "num": 42,
-        "gap": 28
-      },
-      {
-        "num": 30,
-        "gap": 25
+        "gap": 31
       },
       {
         "num": 44,
-        "gap": 18
+        "gap": 19
       },
       {
         "num": 34,
-        "gap": 16
+        "gap": 17
       },
       {
         "num": 23,
-        "gap": 13
+        "gap": 14
       },
       {
         "num": 28,
-        "gap": 13
+        "gap": 14
       },
       {
         "num": 9,
-        "gap": 12
+        "gap": 13
       },
       {
         "num": 19,
-        "gap": 12
+        "gap": 13
       },
       {
         "num": 40,
-        "gap": 11
+        "gap": 12
       },
       {
         "num": 26,
+        "gap": 11
+      },
+      {
+        "num": 53,
+        "gap": 11
+      },
+      {
+        "num": 3,
         "gap": 10
       }
     ],
     "totalNumbers": 52
   },
   "consecutiveRepeats": {
-    "rate": 55.58,
-    "totalDraws": 2572,
-    "drawsWithRepeats": 1429,
+    "rate": 55.6,
+    "totalDraws": 2573,
+    "drawsWithRepeats": 1430,
     "topRepeaters": [
       {
         "num": 23,
@@ -751,33 +751,33 @@
     ]
   },
   "latestDraw": {
-    "date": "2026-03-11",
-    "drawNumber": 2627,
+    "date": "2026-03-14",
+    "drawNumber": 2628,
     "numbers": [
-      56,
-      5,
-      2,
-      58,
-      49,
-      54
+      12,
+      22,
+      30,
+      32,
+      42,
+      58
     ],
-    "bonusBall": 46,
+    "bonusBall": 57,
     "hotNumbers": [
-      2
+      30
     ],
     "coldNumbers": [
-      56,
-      58,
-      54
+      58
     ],
     "neutralNumbers": [
-      5,
-      49
+      12,
+      22,
+      32,
+      42
     ]
   },
   "nextDraw": {
-    "date": "2026-03-14",
-    "dayOfWeek": "Saturday",
+    "date": "2026-03-18",
+    "dayOfWeek": "Wednesday",
     "time": "21:00 SAST"
   },
   "tickets": [
@@ -2969,7 +2969,7 @@
       "bonusBall": 10,
       "strategy": "Alternating Hot",
       "bestMatch": "4",
-      "winRate": "1.91",
+      "winRate": "1.90",
       "matchHistory": [
         {
           "date": "2000-08-05",
@@ -3710,7 +3710,7 @@
       "bonusBall": 10,
       "strategy": "Triple Hot + Cold",
       "bestMatch": "4",
-      "winRate": "1.56",
+      "winRate": "1.55",
       "matchHistory": [
         {
           "date": "2001-11-07",
@@ -4086,54 +4086,54 @@
   ],
   "ticketsVsLatest": [
     {
-      "name": "Combo 7",
+      "name": "Combo 1",
       "numbers": [
-        2,
         8,
-        11,
         14,
-        16,
-        18
-      ],
-      "bonusBall": 16,
-      "matchedNumbers": [
-        2
-      ],
-      "bonusMatched": false,
-      "matchCount": 1,
-      "display": "1 match"
-    },
-    {
-      "name": "Combo 4",
-      "numbers": [
-        2,
-        6,
         16,
         23,
-        46,
+        30,
         48
       ],
-      "bonusBall": 19,
+      "bonusBall": 22,
       "matchedNumbers": [
-        2
+        30
       ],
       "bonusMatched": false,
       "matchCount": 1,
       "display": "1 match"
     },
     {
-      "name": "Combo 2",
+      "name": "Combo A",
       "numbers": [
-        2,
-        11,
+        48,
+        46,
+        33,
+        30,
+        23,
+        16
+      ],
+      "bonusBall": 22,
+      "matchedNumbers": [
+        30
+      ],
+      "bonusMatched": false,
+      "matchCount": 1,
+      "display": "1 match"
+    },
+    {
+      "name": "Combo 6",
+      "numbers": [
         14,
-        17,
-        18,
+        16,
+        23,
+        29,
+        30,
         46
       ],
-      "bonusBall": 16,
+      "bonusBall": 48,
       "matchedNumbers": [
-        2
+        30
       ],
       "bonusMatched": false,
       "matchCount": 1,
@@ -4151,25 +4151,25 @@
       ],
       "bonusBall": 10,
       "matchedNumbers": [
-        2
+        30
       ],
       "bonusMatched": false,
       "matchCount": 1,
       "display": "1 match"
     },
     {
-      "name": "Combo F",
+      "name": "Combo C",
       "numbers": [
-        2,
-        8,
-        14,
-        33,
-        48,
-        50
+        11,
+        17,
+        18,
+        29,
+        30,
+        33
       ],
-      "bonusBall": 10,
+      "bonusBall": 19,
       "matchedNumbers": [
-        2
+        30
       ],
       "bonusMatched": false,
       "matchCount": 1,
@@ -4177,6 +4177,21 @@
     }
   ],
   "lastDraws": [
+    {
+      "date": "2026-03-14",
+      "drawNumber": 2628,
+      "numbers": [
+        12,
+        22,
+        30,
+        32,
+        42,
+        58
+      ],
+      "bonusBall": 57,
+      "hotCount": 1,
+      "coldCount": 1
+    },
     {
       "date": "2026-03-11",
       "drawNumber": 2627,
@@ -4250,21 +4265,6 @@
       ],
       "bonusBall": 20,
       "hotCount": 1,
-      "coldCount": 1
-    },
-    {
-      "date": "2026-02-21",
-      "drawNumber": 2622,
-      "numbers": [
-        2,
-        8,
-        39,
-        43,
-        45,
-        55
-      ],
-      "bonusBall": 6,
-      "hotCount": 2,
       "coldCount": 1
     }
   ],
