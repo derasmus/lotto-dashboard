@@ -11,7 +11,7 @@
     "earliest": "2000-03-11",
     "latest": "2026-03-14"
   },
-  "lastUpdated": "2026-03-17T09:32:37.095Z",
+  "lastUpdated": "2026-03-18T08:44:36.972Z",
   "frequency": {
     "top15": [
       {
@@ -762,6 +762,10 @@
       58
     ],
     "bonusBall": 57,
+    "jackpot": 54845195,
+    "rollover": 20,
+    "totalPrizePool": 5203849,
+    "totalSales": 17147855,
     "hotNumbers": [
       30
     ],
@@ -4189,6 +4193,9 @@
         58
       ],
       "bonusBall": 57,
+      "jackpot": 54845195,
+      "rollover": 20,
+      "totalPrizePool": 5203849,
       "hotCount": 1,
       "coldCount": 1
     },
@@ -4204,6 +4211,9 @@
         54
       ],
       "bonusBall": 46,
+      "jackpot": 53500723,
+      "rollover": 19,
+      "totalPrizePool": 4435569,
       "hotCount": 1,
       "coldCount": 3
     },
@@ -4219,6 +4229,9 @@
         47
       ],
       "bonusBall": 29,
+      "jackpot": 50484080,
+      "rollover": 18,
+      "totalPrizePool": 5192334,
       "hotCount": 1,
       "coldCount": 0
     },
