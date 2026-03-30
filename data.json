@@ -6,17 +6,17 @@
     "Saturday"
   ],
   "drawTime": "21:00",
-  "totalDraws": 2573,
+  "totalDraws": 2577,
   "dateRange": {
     "earliest": "2000-03-11",
-    "latest": "2026-03-14"
+    "latest": "2026-03-28"
   },
-  "lastUpdated": "2026-03-18T08:44:36.972Z",
+  "lastUpdated": "2026-03-30T04:55:58.629Z",
   "frequency": {
     "top15": [
       {
         "num": 16,
-        "count": 342
+        "count": 343
       },
       {
         "num": 8,
@@ -40,7 +40,7 @@
       },
       {
         "num": 46,
-        "count": 328
+        "count": 329
       },
       {
         "num": 29,
@@ -64,15 +64,15 @@
       },
       {
         "num": 6,
-        "count": 317
+        "count": 318
       },
       {
         "num": 24,
-        "count": 317
+        "count": 318
       },
       {
-        "num": 33,
-        "count": 317
+        "num": 41,
+        "count": 318
       }
     ],
     "bottom15": [
@@ -102,7 +102,7 @@
       },
       {
         "num": 52,
-        "count": 93
+        "count": 94
       },
       {
         "num": 51,
@@ -130,17 +130,17 @@
       },
       {
         "num": 31,
-        "count": 285
+        "count": 286
       },
       {
         "num": 19,
-        "count": 286
+        "count": 287
       }
     ],
     "all": [
       {
         "num": 16,
-        "count": 342
+        "count": 343
       },
       {
         "num": 8,
@@ -164,7 +164,7 @@
       },
       {
         "num": 46,
-        "count": 328
+        "count": 329
       },
       {
         "num": 29,
@@ -188,27 +188,27 @@
       },
       {
         "num": 6,
-        "count": 317
+        "count": 318
       },
       {
         "num": 24,
+        "count": 318
+      },
+      {
+        "num": 41,
+        "count": 318
+      },
+      {
+        "num": 1,
+        "count": 317
+      },
+      {
+        "num": 7,
         "count": 317
       },
       {
         "num": 33,
         "count": 317
-      },
-      {
-        "num": 41,
-        "count": 317
-      },
-      {
-        "num": 1,
-        "count": 316
-      },
-      {
-        "num": 7,
-        "count": 316
       },
       {
         "num": 13,
@@ -223,36 +223,36 @@
         "count": 314
       },
       {
+        "num": 49,
+        "count": 314
+      },
+      {
         "num": 44,
         "count": 313
       },
       {
-        "num": 49,
+        "num": 45,
         "count": 313
       },
       {
-        "num": 45,
-        "count": 312
+        "num": 3,
+        "count": 311
       },
       {
         "num": 27,
         "count": 311
       },
       {
-        "num": 3,
-        "count": 310
-      },
-      {
         "num": 20,
         "count": 307
       },
       {
-        "num": 35,
+        "num": 22,
         "count": 306
       },
       {
-        "num": 22,
-        "count": 305
+        "num": 35,
+        "count": 306
       },
       {
         "num": 9,
@@ -268,22 +268,26 @@
       },
       {
         "num": 26,
-        "count": 297
+        "count": 299
       },
       {
         "num": 47,
         "count": 297
       },
       {
-        "num": 40,
-        "count": 295
+        "num": 12,
+        "count": 296
       },
       {
-        "num": 12,
-        "count": 294
+        "num": 40,
+        "count": 296
       },
       {
         "num": 28,
+        "count": 295
+      },
+      {
+        "num": 42,
         "count": 294
       },
       {
@@ -291,12 +295,8 @@
         "count": 293
       },
       {
-        "num": 42,
-        "count": 293
-      },
-      {
         "num": 4,
-        "count": 289
+        "count": 290
       },
       {
         "num": 5,
@@ -312,11 +312,11 @@
       },
       {
         "num": 19,
-        "count": 286
+        "count": 287
       },
       {
         "num": 31,
-        "count": 285
+        "count": 286
       },
       {
         "num": 10,
@@ -344,7 +344,7 @@
       },
       {
         "num": 52,
-        "count": 93
+        "count": 94
       },
       {
         "num": 53,
@@ -396,7 +396,7 @@
       },
       {
         "num": 5,
-        "count": 60
+        "count": 61
       },
       {
         "num": 26,
@@ -438,7 +438,7 @@
       },
       {
         "num": 5,
-        "count": 60
+        "count": 61
       },
       {
         "num": 26,
@@ -461,6 +461,10 @@
         "count": 57
       },
       {
+        "num": 17,
+        "count": 55
+      },
+      {
         "num": 20,
         "count": 55
       },
@@ -471,10 +475,6 @@
       {
         "num": 44,
         "count": 55
-      },
-      {
-        "num": 17,
-        "count": 54
       },
       {
         "num": 31,
@@ -565,6 +565,10 @@
         "count": 47
       },
       {
+        "num": 38,
+        "count": 47
+      },
+      {
         "num": 40,
         "count": 47
       },
@@ -581,16 +585,12 @@
         "count": 46
       },
       {
-        "num": 38,
-        "count": 46
-      },
-      {
         "num": 18,
         "count": 44
       },
       {
         "num": 9,
-        "count": 42
+        "count": 43
       },
       {
         "num": 28,
@@ -641,72 +641,72 @@
   "gapAnalysis": {
     "mostOverdue": [
       {
-        "num": 41,
-        "gap": 42
-      },
-      {
         "num": 27,
-        "gap": 40
-      },
-      {
-        "num": 52,
-        "gap": 36
-      },
-      {
-        "num": 31,
-        "gap": 34
+        "gap": 44
       },
       {
         "num": 25,
-        "gap": 31
+        "gap": 35
       },
       {
         "num": 44,
-        "gap": 19
+        "gap": 23
       },
       {
         "num": 34,
-        "gap": 17
+        "gap": 21
       },
       {
         "num": 23,
-        "gap": 14
-      },
-      {
-        "num": 28,
-        "gap": 14
+        "gap": 18
       },
       {
         "num": 9,
+        "gap": 17
+      },
+      {
+        "num": 21,
+        "gap": 14
+      },
+      {
+        "num": 51,
+        "gap": 14
+      },
+      {
+        "num": 29,
         "gap": 13
       },
       {
-        "num": 19,
+        "num": 35,
         "gap": 13
       },
       {
-        "num": 40,
+        "num": 18,
         "gap": 12
       },
       {
-        "num": 26,
+        "num": 36,
         "gap": 11
       },
       {
-        "num": 53,
+        "num": 50,
         "gap": 11
       },
       {
-        "num": 3,
+        "num": 8,
+        "gap": 10
+      },
+      {
+        "num": 39,
         "gap": 10
       }
     ],
     "totalNumbers": 52
   },
   "consecutiveRepeats": {
-    "rate": 55.6,
-    "totalDraws": 2573,
-    "drawsWithRepeats": 1430,
+    "rate": 55.55,
+    "totalDraws": 2577,
+    "drawsWithRepeats": 1431,
     "topRepeaters": [
       {
         "num": 23,
@@ -751,36 +751,35 @@
     ]
   },
   "latestDraw": {
-    "date": "2026-03-14",
-    "drawNumber": 2628,
+    "date": "2026-03-28",
+    "drawNumber": 2632,
     "numbers": [
+      6,
       12,
-      22,
-      30,
-      32,
-      42,
-      58
+      26,
+      40,
+      41,
+      55
     ],
-    "bonusBall": 57,
-    "jackpot": 54845195,
-    "rollover": 20,
-    "totalPrizePool": 5203849,
-    "totalSales": 17147855,
+    "bonusBall": 17,
+    "jackpot": 65607184,
+    "rollover": 24,
+    "totalPrizePool": 5665608,
     "hotNumbers": [
-      30
+      6,
+      41
     ],
     "coldNumbers": [
-      58
+      55
     ],
     "neutralNumbers": [
       12,
-      22,
-      32,
-      42
+      26,
+      40
     ]
   },
   "nextDraw": {
-    "date": "2026-03-18",
+    "date": "2026-04-01",
     "dayOfWeek": "Wednesday",
     "time": "21:00 SAST"
   },
@@ -1166,7 +1165,7 @@
       "bonusBall": 19,
       "strategy": "Even Hot Spread",
       "bestMatch": "4",
-      "winRate": "2.57",
+      "winRate": "2.56",
       "matchHistory": [
         {
           "date": "2000-08-05",
@@ -1830,7 +1829,7 @@
       "bonusBall": 22,
       "strategy": "Top 6 Hot Desc",
       "bestMatch": "4",
-      "winRate": "2.18",
+      "winRate": "2.17",
       "matchHistory": [
         {
           "date": "2000-08-05",
@@ -2127,7 +2126,7 @@
       "bonusBall": 16,
       "strategy": "Hot Balance",
       "bestMatch": "4",
-      "winRate": "2.14",
+      "winRate": "2.13",
       "matchHistory": [
         {
           "date": "2000-04-22",
@@ -4090,6 +4089,76 @@
   ],
   "ticketsVsLatest": [
     {
+      "name": "Combo 4",
+      "numbers": [
+        2,
+        6,
+        16,
+        23,
+        46,
+        48
+      ],
+      "bonusBall": 19,
+      "matchedNumbers": [
+        6
+      ],
+      "bonusMatched": false,
+      "matchCount": 1,
+      "display": "1 match"
+    },
+    {
+      "name": "Combo 3",
+      "numbers": [
+        6,
+        8,
+        14,
+        16,
+        29,
+        33
+      ],
+      "bonusBall": 10,
+      "matchedNumbers": [
+        6
+      ],
+      "bonusMatched": false,
+      "matchCount": 1,
+      "display": "1 match"
+    },
+    {
+      "name": "Combo E",
+      "numbers": [
+        6,
+        17,
+        46,
+        48,
+        50,
+        51
+      ],
+      "bonusBall": 16,
+      "matchedNumbers": [
+        6
+      ],
+      "bonusMatched": false,
+      "matchCount": 1,
+      "display": "1 match"
+    },
+    {
+      "name": "Combo 7",
+      "numbers": [
+        2,
+        8,
+        11,
+        14,
+        16,
+        18
+      ],
+      "bonusBall": 16,
+      "matchedNumbers": [],
+      "bonusMatched": false,
+      "matchCount": 0,
+      "display": "No matches"
+    },
+    {
       "name": "Combo 1",
       "numbers": [
         8,
@@ -4100,87 +4169,85 @@
         48
       ],
       "bonusBall": 22,
-      "matchedNumbers": [
-        30
-      ],
+      "matchedNumbers": [],
       "bonusMatched": false,
-      "matchCount": 1,
-      "display": "1 match"
-    },
-    {
-      "name": "Combo A",
-      "numbers": [
-        48,
-        46,
-        33,
-        30,
-        23,
-        16
-      ],
-      "bonusBall": 22,
-      "matchedNumbers": [
-        30
-      ],
-      "bonusMatched": false,
-      "matchCount": 1,
-      "display": "1 match"
-    },
-    {
-      "name": "Combo 6",
-      "numbers": [
-        14,
-        16,
-        23,
-        29,
-        30,
-        46
-      ],
-      "bonusBall": 48,
-      "matchedNumbers": [
-        30
-      ],
-      "bonusMatched": false,
-      "matchCount": 1,
-      "display": "1 match"
-    },
-    {
-      "name": "Combo B",
-      "numbers": [
-        2,
-        29,
-        30,
-        8,
-        16,
-        46
-      ],
-      "bonusBall": 10,
-      "matchedNumbers": [
-        30
-      ],
-      "bonusMatched": false,
-      "matchCount": 1,
-      "display": "1 match"
-    },
-    {
-      "name": "Combo C",
-      "numbers": [
-        11,
-        17,
-        18,
-        29,
-        30,
-        33
-      ],
-      "bonusBall": 19,
-      "matchedNumbers": [
-        30
-      ],
-      "bonusMatched": false,
-      "matchCount": 1,
-      "display": "1 match"
+      "matchCount": 0,
+      "display": "No matches"
     }
   ],
   "lastDraws": [
+    {
+      "date": "2026-03-28",
+      "drawNumber": 2632,
+      "numbers": [
+        6,
+        12,
+        26,
+        40,
+        41,
+        55
+      ],
+      "bonusBall": 17,
+      "jackpot": 65607184,
+      "rollover": 24,
+      "totalPrizePool": 5665608,
+      "hotCount": 2,
+      "coldCount": 1
+    },
+    {
+      "date": "2026-03-25",
+      "drawNumber": 2631,
+      "numbers": [
+        1,
+        12,
+        19,
+        28,
+        31,
+        52
+      ],
+      "bonusBall": 38,
+      "jackpot": 65000000,
+      "rollover": 23,
+      "totalPrizePool": 4918054,
+      "hotCount": 0,
+      "coldCount": 3
+    },
+    {
+      "date": "2026-03-21",
+      "drawNumber": 2630,
+      "numbers": [
+        3,
+        7,
+        16,
+        22,
+        42,
+        53
+      ],
+      "bonusBall": 9,
+      "jackpot": 61706009,
+      "rollover": 22,
+      "totalPrizePool": 4983236,
+      "hotCount": 1,
+      "coldCount": 1
+    },
+    {
+      "date": "2026-03-18",
+      "drawNumber": 2629,
+      "numbers": [
+        4,
+        24,
+        26,
+        45,
+        46,
+        49
+      ],
+      "bonusBall": 5,
+      "jackpot": 58869506,
+      "rollover": 21,
+      "totalPrizePool": 4271236,
+      "hotCount": 2,
+      "coldCount": 0
+    },
     {
       "date": "2026-03-14",
       "drawNumber": 2628,
@@ -4216,69 +4283,6 @@
       "totalPrizePool": 4435569,
       "hotCount": 1,
       "coldCount": 3
-    },
-    {
-      "date": "2026-03-07",
-      "drawNumber": 2626,
-      "numbers": [
-        22,
-        14,
-        4,
-        20,
-        13,
-        47
-      ],
-      "bonusBall": 29,
-      "jackpot": 50484080,
-      "rollover": 18,
-      "totalPrizePool": 5192334,
-      "hotCount": 1,
-      "coldCount": 0
-    },
-    {
-      "date": "2026-03-04",
-      "drawNumber": 2625,
-      "numbers": [
-        17,
-        37,
-        10,
-        1,
-        11,
-        57
-      ],
-      "bonusBall": 25,
-      "hotCount": 2,
-      "coldCount": 3
-    },
-    {
-      "date": "2026-02-28",
-      "drawNumber": 2624,
-      "numbers": [
-        2,
-        7,
-        15,
-        33,
-        38,
-        48
-      ],
-      "bonusBall": 5,
-      "hotCount": 3,
-      "coldCount": 0
-    },
-    {
-      "date": "2026-02-25",
-      "drawNumber": 2623,
-      "numbers": [
-        7,
-        11,
-        12,
-        32,
-        38,
-        55
-      ],
-      "bonusBall": 20,
-      "hotCount": 1,
-      "coldCount": 1
     }
   ],
   "recommendations": {
@@ -4293,19 +4297,19 @@
       50
     ],
     "overdue": [
-      41,
       27,
-      52,
-      31,
-      25
+      25,
+      44,
+      34,
+      23
     ],
     "mix": [
       16,
       8,
       52,
       51,
-      41,
-      27
+      27,
+      25
     ],
     "bonusBall": 22
   }
